@@ -899,6 +899,19 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@types/three@npm:^0.164.1":
+  version: 0.164.1
+  resolution: "@types/three@npm:0.164.1"
+  dependencies:
+    "@tweenjs/tween.js": ~23.1.1
+    "@types/stats.js": "*"
+    "@types/webxr": "*"
+    fflate: ~0.8.2
+    meshoptimizer: ~0.18.1
+  checksum: f0f51deee6865be1d0e4e1143b26c45c5a7cc5ff82e66c82a76c33022776201734fc989cee15333a5c9c46b56ecde8b642858d07047e224862ed80934062f860
+  languageName: node
+  linkType: hard
+
 "@types/web-bluetooth@npm:^0.0.20":
   version: 0.0.20
   resolution: "@types/web-bluetooth@npm:0.0.20"
@@ -2924,6 +2937,7 @@ __metadata:
     "@tresjs/core": ^3.9.0
     "@tsconfig/node20": ^20.1.4
     "@types/node": ^20.12.5
+    "@types/three": ^0.164.1
     "@vitejs/plugin-vue": ^5.0.4
     "@vitejs/plugin-vue-jsx": ^3.1.0
     "@vue/tsconfig": ^0.5.1

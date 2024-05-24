@@ -13,6 +13,7 @@
   "dependencies": {
     "@tresjs/cientos": "^3.9.0",
     "@tresjs/core": "^3.9.0",
+    "@types/three": "^0.164.1",
     "@vueuse/core": "^10.9.0",
     "@vueuse/shared": "^10.9.0",
     "three": "^0.164.1",
