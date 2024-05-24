@@ -1,4 +1,4 @@
-import { Vector3 } from "three";
+import * as THREE from "three";
 import TWEEN from "@tweenjs/tween.js";
 
 export type Orientation = {
